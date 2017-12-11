@@ -6,4 +6,4 @@ Enter User Name - manojk2829@gmail.com
 Password -- test@1234
 
 
-Thanks :)
+Test Profile Page then Logout The Facebook.
